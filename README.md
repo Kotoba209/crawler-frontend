@@ -1,4 +1,4 @@
-# 贴吧帖子列表爬虫
+# crawler-frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
