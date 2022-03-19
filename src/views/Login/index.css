@@ -1,0 +1,8 @@
+.login-page {
+  width: 300px;
+  min-height: 200px;
+  padding: 20px;
+  padding-top: 50px;
+  margin: 120px auto;
+  border: 1px solid #ccc;
+}
